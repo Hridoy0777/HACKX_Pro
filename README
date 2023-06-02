@@ -1,5 +1,8 @@
-git clone https://github.com/Hridoy0777/HACKX_Pro
+rm -rf HACKX_Pro
 
-cd HACKX_Pro
+git clone  git clone https://github.com/Hridoy0777/HACKX_Pro
 
-python HACKX_Pro.py
+ cd HACKX_Pro
+
+ python HACKX_Pro.py
+
